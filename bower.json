@@ -1,10 +1,13 @@
 {
-  "name": "qrCoder-plugin",
+  "name": "qrcoder",
+  "authors": [
+    "Oleg Yakubyshyn"
+  ],
   "description": "",
   "main": "",
   "license": "MIT",
   "homepage": "",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
